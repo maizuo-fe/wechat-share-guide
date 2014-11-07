@@ -1,0 +1,17 @@
+{
+  "name": "wechat-share-guide",
+  "repo": "maizuo-fe/wechat-share-guide",
+  "description": "",
+  "version": "0.1.0",
+  "license": "MIT",
+  "keywords": [
+    "wechat",
+    "share"
+  ],
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/guide.png"
+  ]
+}

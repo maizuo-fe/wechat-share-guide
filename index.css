@@ -1,0 +1,23 @@
+.wechat-share-guide {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.82);
+  z-index: 100;
+}
+
+.wechat-share-guide > span {
+  position: absolute;
+  zoom: 0.5;
+  right: 60px;
+  top: 2px;
+  bottom: 0;
+  left: 0;
+  text-indent: -9999px; /* image replacement */
+  direction: ltr; /* make text-indent play nice */
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-image: url('./images/guide.png');
+}
