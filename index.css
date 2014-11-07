@@ -19,5 +19,5 @@
   direction: ltr; /* make text-indent play nice */
   background-repeat: no-repeat;
   background-position: top right;
-  background-image: url('./images/guide.png');
+  background-image: url(images/guide.png);
 }

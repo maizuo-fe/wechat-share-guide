@@ -8,6 +8,9 @@
     "wechat",
     "share"
   ],
+  "scripts": [
+    "index.js"
+  ],
   "styles": [
     "index.css"
   ],
