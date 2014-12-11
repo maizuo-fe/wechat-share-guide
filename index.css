@@ -6,6 +6,7 @@
   bottom: 0;
   background-color: rgba(0,0,0,0.82);
   z-index: 100;
+  display: none;
 }
 
 .wechat-share-guide > span {
@@ -19,5 +20,5 @@
   direction: ltr; /* make text-indent play nice */
   background-repeat: no-repeat;
   background-position: top right;
-  background-image: url(images/guide.png);
+  background-image: url('images/guide.png');
 }
