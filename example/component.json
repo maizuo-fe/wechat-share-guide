@@ -1,0 +1,14 @@
+{
+  "name": "wechat-share-guide-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "maizuo-fe/wechat-share-guide": "*"
+  },
+  "scripts": [
+    "src/index.js"
+  ],
+  "styles": [
+    "src/index.css"
+  ]
+}

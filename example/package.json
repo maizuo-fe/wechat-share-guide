@@ -1,0 +1,9 @@
+{
+  "name": "wechat-share-guide-example",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-duojs": "^0.3.0"
+  }
+}
